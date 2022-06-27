@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass\\test\\_test.scss"],"names":[],"mappings":"AAAA,GACE,UAEF,EACE,cAAA,CACA,eAAA,CACA","file":"src.5a3d202d.css","sourceRoot":"..\\src","sourcesContent":["h1 {\r\n  color: red;\r\n}\r\np {\r\n  font-size: 28px;\r\n  font-weight: 700;\r\n  font-style: italic;\r\n}\r\n"]}
