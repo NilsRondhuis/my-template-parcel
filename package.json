@@ -14,11 +14,11 @@
   "author": "Nils Rondhuis",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5",
     "sass": "^1.50.1"
   },
   "dependencies": {
     "gh-pages": "^4.0.0",
+    "parcel-bundler": "^1.12.5",
     "postcss": "^7.0.39"
   }
 }
